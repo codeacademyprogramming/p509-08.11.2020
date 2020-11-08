@@ -19,7 +19,14 @@
 	- **Ignore the following** (HTML Styles, HTML CSS, HTML Classes, HTML Id, HTML Scripts, HTML Computercode).
 7. **Research for difference between GET and POST methods.**
 8. Create HTML version of [this PDF](https://github.com/ramilmamedoff/p509-08.11.2020/blob/main/html-exercise.pdf).
-
+9. Read these articles:
+	- [Introduction to HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding)
+	- [Multimedia and Embedding](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding)
+	- [HTML table basics](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Basics)
+	- [Your first form](https://developer.mozilla.org/en-US/docs/Learn/Forms/Your_first_form)
+	- [How to structure a web form](https://developer.mozilla.org/en-US/docs/Learn/Forms/How_to_structure_a_web_form)
+	- [HTML5 input types](https://developer.mozilla.org/en-US/docs/Learn/Forms/HTML5_input_types)
+	
 ## Some usefull resources:
 - https://marksheet.io/
 - https://overapi.com/html
