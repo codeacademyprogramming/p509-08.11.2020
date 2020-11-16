@@ -1,4 +1,4 @@
-# Front-End, HTML Lesson 2 - Homework (08.11.2020)
+# Front-End Lesson 2, HTML - Homework (08.11.2020)
 
 1. **Add sample Audio and Video in an HTML page.**
 	- The video should be autoplayed.
